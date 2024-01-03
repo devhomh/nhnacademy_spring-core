@@ -10,10 +10,10 @@
           class="com.nhnacademy.edu.springframework.messagesender.service.MessageSendService">
     </bean>
 
-    <bean id="smsMessageSender"
-          class="com.nhnacademy.edu.springframework.messagesender.message.SmsMessageSender">
-        <qualifier type="com.nhnacademy.edu.springframework.messagesender.annotation.SMS"/>
-    </bean>
+<!--    <bean id="smsMessageSender"-->
+<!--          class="com.nhnacademy.edu.springframework.messagesender.message.SmsMessageSender">-->
+<!--        <qualifier type="com.nhnacademy.edu.springframework.messagesender.annotation.SMS"/>-->
+<!--    </bean>-->
 
     <bean id="emailMessageSender"
           class="com.nhnacademy.edu.springframework.messagesender.message.EmailMessageSender">

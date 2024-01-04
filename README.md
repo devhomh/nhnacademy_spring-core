@@ -14,5 +14,3 @@ Spring Framework의 핵심인 Spring-Core에 대한 실습 자료를 포함하�
 - AOP (Aspect-Oriented Programming)
 
 ---
-
-**주의:** 이 저장소는 실습용으로 만들어졌으며, 상업적 목적으로 사용되지 않습니다. 모든 권리는 NHN 아카데미에 있습니다.
